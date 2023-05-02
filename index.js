@@ -14,12 +14,19 @@ const chef = require('./data/chef.json');
 app.get('/chef', (req, res) => {
     res.send(chef);
 })
+app.get ('/chef/:id', (req, res) =>{
+    const id = req.params.id
+    console.log(id);
+    const getchef = chef.find(chef => chef._id == id)
+    res.send(getchef);
+
+})
 
 
 
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
-})
+}) 
 
 
