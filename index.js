@@ -14,3 +14,9 @@ const chef = require('./data/chef.json');
 app.get('/chef', (req, res) => {
     res.send(chef);
 })
+
+
+
+app.listen(port, () => {
+    console.log(`Example app listening on port ${port}`)
+})
