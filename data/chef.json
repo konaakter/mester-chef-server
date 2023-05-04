@@ -307,7 +307,7 @@
 
 
 
-    
+
     {
         "id": 5,
         "name": "Chef John",
@@ -430,74 +430,6 @@
                 "rating": 4.5
             }
         ]
-    },
-    {
-        "id": 8,
-        "name": "Chef Kim",
-        "photo": "https://thumbs.dreamstime.com/b/portrait-positive-handsome-chef-cook-beret-white-outfit-isolated-white-background-portrait-positive-handsome-chef-151412945.jpg",
-        "experience": "10",
-        "bio": "Chef Kim is a Korean-American chef who has worked in some of the most prestigious restaurants in New York City. She specializes in Korean fusion cuisine and loves to combine traditional Korean flavors with modern cooking techniques.",
-        "likes": 1200,
-        "recipes": [
-            {
-                "id": 7,
-                "name": "Bibimbap",
-                "image": "https://media.istockphoto.com/id/475499733/photo/nachos.jpg?s=612x612&w=0&k=20&c=32sM2sMi8Clk8C99JdTXilaUv9wv9UnNF4jslj7JQxs=",
-                "ingredients": [
-                    "2 cups cooked white rice",
-                    "1/2 pound beef sirloin",
-                    "1 zucchini",
-                    "1 carrot",
-                    "1/2 onion",
-                    "1/2 cup bean sprouts",
-                    "1/2 cup spinach",
-                    "2 tablespoons soy sauce",
-                    "2 tablespoons sesame oil",
-                    "2 tablespoons sugar",
-                    "2 cloves garlic"
-                ],
-                "cooking_method": "Thinly slice beef sirloin and marinate in a mixture of soy sauce, sesame oil, sugar, and garlic for at least 30 minutes. Julienne zucchini, carrot, and onion. Blanch bean sprouts and spinach in boiling water. In a large bowl, layer cooked rice, sliced beef, julienned vegetables, bean sprouts, and spinach. Top with a fried egg if desired. Mix together the sauce of soy sauce, sesame oil, and sugar, and drizzle over the top of the bibimbap. Mix all ingredients together before eating.",
-                "rating": 4.9
-            },
-            {
-                "id": 8,
-                "name": "Korean Fried Chicken",
-                "image": "https://media.istockphoto.com/id/1056419208/photo/grilled-chicken-breast-and-vegetables.jpg?s=612x612&w=0&k=20&c=_seZ-9HcA9Pty-OGkNsUh9dFiGhIPhCXBTKTkmFIFi8=",
-                "ingredients": [
-                    "2 pounds chicken wings",
-                    "1/2 cup cornstarch",
-                    "1/2 cup all-purpose flour",
-                    "1/2 teaspoon salt",
-                    "1/2 teaspoon black pepper",
-                    "1/4 cup soy sauce",
-                    "1/4 cup rice vinegar",
-                    "1/4 cup honey",
-                    "2 tablespoons gochujang",
-                    "2 tablespoons vegetable oil",
-                    "2 tablespoons sesame seeds"
-                ],
-                "cooking_method": "Preheat ovento 400 degrees F. In a large bowl, mix together cornstarch, flour, salt, and black pepper. Dredge chicken wings in the mixture until fully coated. Place wings on a baking sheet and bake for 25-30 minutes or until crispy and golden brown. In a small saucepan, mix together soy sauce, rice vinegar, honey, gochujang, vegetable oil, and sesame seeds. Heat over medium heat until sauce is heated through. Toss chicken wings in the sauce until coated. Serve hot.",
-                "rating": 4.7
-            },
-            {
-                "id": 9,
-                "name": "Bulgogi",
-                "image": "https://media.istockphoto.com/id/1348318884/photo/plate-of-mexican-food-tacos.jpg?s=612x612&w=0&k=20&c=Vt8vi4-sCaum6YrzAiAkH7lUJK5mtp2zYT3uYw1M7iA=",
-                "ingredients": [
-                    "1 pound beef sirloin",
-                    "1/4 cup soy sauce",
-                    "2 tablespoons sugar",
-                    "2 tablespoons sesame oil",
-                    "1 tablespoon sesame seeds",
-                    "1/2 onion",
-                    "2 cloves garlic",
-                    "1 tablespoon vegetable oil",
-                    "1/4 teaspoon black pepper",
-                    "4 cups cooked white rice"
-                ],
-                "cooking_method": "Thinly slice beef sirloin and marinate in a mixture of soy sauce, sugar, sesame oil, sesame seeds, and black pepper for at least 30 minutes. Julienne onion and finely chop garlic. In a large skillet, heat vegetable oil over medium-high heat. Add beef and cook until browned. Add onion and garlic and cook until onion is translucent. Serve over a bed of cooked white rice.",
-                "rating": 4.8
-            }
-        ]
     }
+   
 ]
